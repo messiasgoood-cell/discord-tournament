@@ -1,0 +1,37 @@
+🚀 GITHUB SETUP - HECHO EN 2 MINUTOS
+
+==================== OPCIÓN FÁCIL (GITHUB WEB) ====================
+
+1. Ve a: https://github.com/new
+2. Name: discord-tournament
+3. Description: Discord Bot + Dashboard para Torneos
+4. Visibility: Public
+5. Click "Create repository"
+
+6. Click "Add file" → "Upload files"
+7. Descarga este proyecto desde Replit (click 3 puntos → Download)
+8. Sube las carpetas: bot/ y dashboard/
+9. Commit: "Discord Tournament Bot - Sistema Completo 🏆"
+
+¡LISTO! Repo creado.
+
+==================== OPCIÓN TERMINAL (SI SABES GIT) ====================
+
+git init
+git add .
+git commit -m "Discord Tournament Bot 🏆"
+git remote add origin https://github.com/TU_USERNAME/discord-tournament.git
+git branch -M main
+git push -u origin main
+
+==================== VERIFICAR ====================
+
+Abre: https://github.com/TU_USERNAME/discord-tournament
+
+Deberías ver:
+✅ bot/
+✅ dashboard/
+✅ README.md
+✅ .gitignore
+
+¡TODO LISTO!
