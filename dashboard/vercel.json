@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm install && npm run build",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "env": {
+    "MONGODB_URI": "@mongodb_uri",
+    "VITE_API_URL": "@api_url"
+  }
+}
